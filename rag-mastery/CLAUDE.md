@@ -2,23 +2,43 @@
 
 This course is part of `courses-v2`, the Claude-exclusive version of the AI/ML Solutions Architect study curriculum. Challenges are pre-built; Claude should guide the learner through the prescribed workflow rather than generating new files from scratch.
 
-## Course Environment
+## Startup Protocol (Run Once Per Course)
 
-Primary language: **Go**.
+Before starting the first challenge, verify the environment is ready. Do not skip this — a broken environment derails the learning flow.
 
-Use Go from the challenge directory:
+### 1. Check Go version
 
 ```bash
+go version  # must be 1.22+
+```
+
+### 2. Confirm the first challenge tests run (all skipped or passing is expected)
+
+```bash
+cd 01-rag-ingestion-pipeline
 go test ./...
 ```
 
-If dependencies are added while experimenting, run:
+You should see a list of skipped or passing tests. If you see compilation errors, fix the environment before continuing.
+
+### 3. Go module hygiene
+
+Each challenge has its own `go.mod`. If you add dependencies while experimenting:
 
 ```bash
 go mod tidy
 ```
 
-Some challenges describe production stores such as PostgreSQL/pgvector. Tests are designed so the learner can start with local fakes before wiring real infrastructure.
+### Optional: PostgreSQL + pgvector
+
+Some challenges describe production vector stores. Tests use in-memory fakes by default. Install PostgreSQL with pgvector only if you want to run against a real database:
+
+```bash
+# macOS
+brew install postgresql@16 && brew services start postgresql@16
+
+# Then install pgvector extension
+```
 
 ## Challenge Workflow (Standard Order)
 
