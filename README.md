@@ -1,6 +1,8 @@
+```text
 ░█▀▄░█▀▀░█▀▀░█░█░▀█▀░█░░░█░░
 ░█▀▄░█▀▀░▀▀█░█▀▄░░█░░█░░░█░░
 ░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀
+```
 
 Hands-on, terminal-first courses for engineers practicing production AI/ML and distributed systems design.
 
