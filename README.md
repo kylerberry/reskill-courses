@@ -103,6 +103,16 @@ These are not toy exercises. The challenges focus on production trade-offs: late
 
 The code is the artifact. The real goal is being able to explain and defend the design decisions that got you there.
 
+## Roadmap
+
+The biggest opportunity is to make each challenge more adversarial and production-shaped. Future improvements may include:
+
+- Failure-injection tests for partitions, provider failures, stale data, retries, and degraded dependencies.
+- Load and latency harnesses that force concrete trade-offs instead of only passing functional tests.
+- Written design review prompts where learners defend architecture choices after implementation.
+- Explicit trade-off scoring for cost, latency, correctness, operability, and security.
+- Postmortem questions after bugs or failed tests to turn debugging into durable learning.
+
 ## Requests and Improvements
 
 Have an idea for a new course, a language port, a challenge topic, or another improvement? Open an issue with the request and any relevant context.
