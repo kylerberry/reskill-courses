@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are hardening a pgvector-backed compliance RAG system for production. How would you enforce tenant isolation and access control, generate grounded structured answers with citations, evaluate quality, observe latency/quality metrics, and invalidate caches after document updates?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

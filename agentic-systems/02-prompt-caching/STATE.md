@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are designing a prompt caching layer for a high-traffic LLM app where many requests share long prompt prefixes but prompts can change over time. How would you key cached entries, invalidate them safely, and decide whether the cost/latency savings justify the cache?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

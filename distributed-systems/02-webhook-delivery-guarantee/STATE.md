@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are designing webhook delivery for thousands of subscriber endpoints with at-least-once guarantees. How would you model per-subscriber retry state, use idempotency keys, and decide when to back off, open a circuit, or move a delivery to dead letter?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

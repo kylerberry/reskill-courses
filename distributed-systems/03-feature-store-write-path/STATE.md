@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are designing an online feature store fed by both hourly batch rewrites and near-real-time streaming updates. How would you ensure inference reads a temporally consistent snapshot while resolving conflicts between batch and stream writes?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

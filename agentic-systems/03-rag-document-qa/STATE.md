@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are designing an enterprise document Q&A RAG system with strict tenant isolation and a 2s P95 latency target. How would you choose chunking, indexing/isolation, retrieval/reranking, and fallback behavior when confidence is low or a question spans many documents?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

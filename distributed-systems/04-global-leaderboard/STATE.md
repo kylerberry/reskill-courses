@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are designing a global leaderboard for tens of millions of players with high write volume and sub-100ms rank/top-100 reads. How would you handle global ordering, bursty score updates, hot top-N reads, and the tradeoff between exact and approximate rank?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

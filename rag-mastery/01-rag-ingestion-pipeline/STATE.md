@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are building ingestion for compliance documents that must support accurate retrieval and safe incremental updates. How would you chunk structured documents, model parent-child chunks, batch embeddings, store tenant/document metadata in pgvector, and re-index changed documents without rebuilding the whole corpus?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

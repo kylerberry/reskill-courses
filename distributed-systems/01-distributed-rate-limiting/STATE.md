@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are designing a multi-tenant API rate limiter across stateless gateway nodes in 3 availability zones. How would you balance low-latency local decisions with global accuracy, and what failure modes would you plan for?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

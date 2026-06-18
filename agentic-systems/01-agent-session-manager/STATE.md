@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are designing session management for long-running multi-agent workflows that can fail after expensive progress has been made. What state would you checkpoint, how would you choose checkpoint granularity, and how would parent/child agent relationships affect resumption?
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 

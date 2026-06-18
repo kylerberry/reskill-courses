@@ -7,7 +7,7 @@
 
 ## Cold Answer
 
-- Generated question: _Not generated yet._
+- Generated question: You are designing an end-to-end compliance questionnaire assistant from source documents to structured cited responses. Walk through the pipeline from ingestion through hybrid retrieval, reranking, context building, generation, citation validation, human review routing, incremental re-indexing, and latency controls.
 - User answer: _Not answered yet._
 - Initial assessment: _Not assessed yet._
 
